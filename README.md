@@ -60,3 +60,85 @@ O projeto utiliza uma interface inspirada em dashboards modernos, contendo:
 
 ```bash
 git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+```
+
+---
+
+## 2️⃣ Acesse a pasta
+
+```bash
+cd SEU-REPOSITORIO
+```
+
+---
+
+## 3️⃣ Instale as dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 4️⃣ Execute o projeto
+
+```bash
+python main.py
+```
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
+MultiTools/
+│
+├── assets/
+│   ├── icons/
+│   └── images/
+│
+├── main.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+# 🚧 Em Desenvolvimento
+
+Algumas melhorias planejadas:
+
+- Novas ferramentas
+- Melhorias de desempenho
+- Sistema de configurações
+- Persistência de dados
+- Mais animações e refinamento visual
+- Empacotamento em `.exe`
+- Sistema de plugins/modularização
+
+---
+
+# 🎯 Objetivo do Projeto
+
+Além do TCC, o projeto também tem como finalidade:
+
+- Aprimorar conhecimentos em Python
+- Estudar interfaces gráficas modernas
+- Trabalhar integração com APIs
+- Desenvolver arquitetura de aplicações desktop
+- Construir um projeto de portfólio profissional
+
+---
+
+# 👨‍💻 Autor
+
+**Enzo Pietrantonio**
+
+- GitHub: https://github.com/devbyenzo
+- Instagram: https://instagram.com/enzwq_
+
+---
+
+# ⭐ Status do Projeto
+
+🚧 **Em desenvolvimento ativo**
